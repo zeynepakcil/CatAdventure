@@ -6,7 +6,7 @@
 Cat Adventure is a game that aims to provided an entertaining gameplay experience while contributing players in academic manner. It provides a brief introduction and information about Bilkent University and Computer Science department.
 
 ## What Has Been Done So Far:
-Our game is a java based program which uses LibGDX library. By using some specific tools, we created our player and enemy classes, game and level screen classes, etc. We are currently working on question screens and menus. This week, hopefully, we will conclude by implementing menu and quest screens as well as some details of the enemy features and some game tools regarting to that. 
+Our game is a java based program which uses LibGDX library. By using some specific tools, we created our player and enemy classes, game and level screen classes, etc. We are currently working on question screens and menus. This week, hopefully, we will conclude by implementing menu and quest screens as well as some details of the enemy features and some game tools regarding to that. 
 
 ## Contributions:
 ### Elif Ceren Çelik:
