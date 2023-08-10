@@ -1,0 +1,26 @@
+questionScreenTiles.png
+size: 1292, 516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+noButton
+  rotate: false
+  xy: 0, 0
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+questionBackground
+  rotate: false
+  xy: 96, 0
+  size: 1100, 516
+  orig: 1100, 516
+  offset: 0, 0
+  index: -1
+yesButton
+  rotate: false
+  xy: 1196, 0
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1

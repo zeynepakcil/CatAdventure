@@ -1,0 +1,12 @@
+closeIconTileset.png
+size: 64, 64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+closeIcon
+  rotate: false
+  xy: 0, 0
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1

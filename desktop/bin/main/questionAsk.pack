@@ -1,0 +1,12 @@
+questionAsk.png
+size: 700, 100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+questionAsk
+  rotate: false
+  xy: 0, 0
+  size: 700, 100
+  orig: 700, 100
+  offset: 0, 0
+  index: -1
