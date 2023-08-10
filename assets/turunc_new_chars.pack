@@ -1,0 +1,96 @@
+
+turunc_new_chars.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+newCharacters/orange
+  rotate: false
+  xy: 1, 51
+  size: 682, 32
+  orig: 682, 32
+  offset: 0, 0
+  index: 3
+newCharacters/AD angry
+  rotate: false
+  xy: 1, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newCharacters/AD happy
+  rotate: false
+  xy: 51, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newCharacters/bugDeadcopy
+  rotate: false
+  xy: 101, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newCharacters/bugNormal
+  rotate: false
+  xy: 151, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newCharacters/dogNormal
+  rotate: false
+  xy: 201, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newCharacters/OO angry
+  rotate: false
+  xy: 251, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newCharacters/Ozcan Ozturk  Regular
+  rotate: false
+  xy: 301, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newCharacters/side eye2
+  rotate: false
+  xy: 351, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newCharacters/so happy2
+  rotate: false
+  xy: 401, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newCharacters/surprised2
+  rotate: false
+  xy: 451, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newCharacters/UD angry
+  rotate: false
+  xy: 501, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+newCharacters/ugur dogrusoz regular
+  rotate: false
+  xy: 551, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

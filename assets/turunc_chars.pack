@@ -1,0 +1,201 @@
+
+turunc_chars.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+input-onlinepngtools (10)
+  rotate: false
+  xy: 1, 610
+  size: 450, 388
+  orig: 600, 600
+  offset: 89, 71
+  index: -1
+input-onlinepngtools (11)
+  rotate: false
+  xy: 1, 228
+  size: 450, 380
+  orig: 600, 600
+  offset: 89, 79
+  index: -1
+input-onlinepngtools (12)
+  rotate: false
+  xy: 453, 618
+  size: 450, 380
+  orig: 600, 600
+  offset: 89, 79
+  index: -1
+input-onlinepngtools (16)
+  rotate: false
+  xy: 453, 231
+  size: 450, 385
+  orig: 600, 600
+  offset: 61, 74
+  index: -1
+input-onlinepngtools (17)
+  rotate: false
+  xy: 905, 610
+  size: 450, 388
+  orig: 600, 600
+  offset: 61, 71
+  index: -1
+input-onlinepngtools (18)
+  rotate: false
+  xy: 1357, 618
+  size: 450, 380
+  orig: 600, 600
+  offset: 61, 79
+  index: -1
+input-onlinepngtools (19)
+  rotate: false
+  xy: 1809, 618
+  size: 450, 380
+  orig: 600, 600
+  offset: 61, 79
+  index: -1
+input-onlinepngtools (9)
+  rotate: false
+  xy: 2261, 613
+  size: 450, 385
+  orig: 600, 600
+  offset: 89, 74
+  index: -1
+input-onlinepngtools (7)
+  rotate: false
+  xy: 2713, 589
+  size: 413, 409
+  orig: 600, 600
+  offset: 61, 79
+  index: -1
+input-onlinepngtools (8)
+  rotate: false
+  xy: 3128, 589
+  size: 413, 409
+  orig: 600, 600
+  offset: 126, 79
+  index: -1
+input-onlinepngtools (22)
+  rotate: false
+  xy: 1, 1
+  size: 202, 225
+  orig: 250, 250
+  offset: 3, 10
+  index: -1
+input-onlinepngtools (6)
+  rotate: false
+  xy: 905, 498
+  size: 186, 110
+  orig: 250, 250
+  offset: 38, 94
+  index: -1
+input-onlinepngtools (5)
+  rotate: false
+  xy: 3543, 929
+  size: 173, 69
+  orig: 250, 250
+  offset: 51, 127
+  index: -1
+input-onlinepngtools (1)
+  rotate: false
+  xy: 205, 1
+  size: 165, 225
+  orig: 250, 250
+  offset: 40, 10
+  index: -1
+input-onlinepngtools (13)
+  rotate: false
+  xy: 905, 271
+  size: 165, 225
+  orig: 250, 250
+  offset: 40, 10
+  index: -1
+input-onlinepngtools (14)
+  rotate: false
+  xy: 3543, 702
+  size: 165, 225
+  orig: 250, 250
+  offset: 40, 10
+  index: -1
+input-onlinepngtools (15)
+  rotate: false
+  xy: 372, 1
+  size: 165, 225
+  orig: 250, 250
+  offset: 40, 10
+  index: -1
+input-onlinepngtools (2)
+  rotate: false
+  xy: 539, 4
+  size: 165, 225
+  orig: 250, 250
+  offset: 40, 10
+  index: -1
+input-onlinepngtools (21)
+  rotate: false
+  xy: 706, 4
+  size: 165, 225
+  orig: 250, 250
+  offset: 40, 10
+  index: -1
+input-onlinepngtools (23)
+  rotate: false
+  xy: 3543, 475
+  size: 165, 225
+  orig: 250, 250
+  offset: 40, 10
+  index: -1
+input-onlinepngtools
+  rotate: false
+  xy: 1093, 383
+  size: 165, 225
+  orig: 250, 250
+  offset: 40, 10
+  index: -1
+input-onlinepngtools (20)
+  rotate: false
+  xy: 1260, 378
+  size: 160, 230
+  orig: 250, 250
+  offset: 45, 5
+  index: -1
+input-onlinepngtools (24)
+  rotate: false
+  xy: 1422, 391
+  size: 160, 225
+  orig: 250, 250
+  offset: 45, 10
+  index: -1
+input-onlinepngtools (25)
+  rotate: false
+  xy: 1584, 391
+  size: 160, 225
+  orig: 250, 250
+  offset: 45, 10
+  index: -1
+input-onlinepngtools (26)
+  rotate: false
+  xy: 1746, 391
+  size: 160, 225
+  orig: 250, 250
+  offset: 45, 10
+  index: -1
+input-onlinepngtools (27)
+  rotate: false
+  xy: 1908, 391
+  size: 160, 225
+  orig: 250, 250
+  offset: 45, 10
+  index: -1
+input-onlinepngtools (4)
+  rotate: false
+  xy: 2070, 494
+  size: 109, 122
+  orig: 250, 250
+  offset: 69, 108
+  index: -1
+input-onlinepngtools (3)
+  rotate: false
+  xy: 2070, 373
+  size: 106, 119
+  orig: 250, 250
+  offset: 70, 113
+  index: -1
