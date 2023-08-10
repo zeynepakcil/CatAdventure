@@ -1,0 +1,92 @@
+{
+    "activeFile": "Map.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "tiles"
+    ],
+    "fileStates": {
+        "Map.tmx": {
+            "scale": 4,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 369.75,
+                "y": 203.75
+            }
+        },
+        "images.tsx": {
+            "scaleInDock": 1
+        },
+        "level_tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/Bookshelfs-00.tsx": {
+            "scaleInDock": 0.75
+        },
+        "tiles/Library sprite sheet-00.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/arrow.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/black.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/bookIcon.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/bookIconSmall.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/bookIconSmallEmpty.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/castle-tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/emptyQuestion.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles/flag.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/grey.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/images.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/level_tileset.tsx": {
+            "scaleInDock": 1.5
+        },
+        "tiles/nature-paltformer-tileset-16x16 - Copy.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/pixel-art-style-set-of-different-texture-vector-23823354.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/pixel_platform_01_tileset_final.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/stone.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles/white.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Map.tmx"
+    ],
+    "project": "Map.tiled-project",
+    "recentFiles": [
+        "Map.tmx",
+        "tiles/emptyQuestion.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
